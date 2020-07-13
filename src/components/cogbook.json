@@ -1,0 +1,102 @@
+{
+    "clsassignments": [
+        {
+            "sectionid": "61992",
+            "sectionname": "Electric Shock..."
+        },
+        {
+            "sectionid": "62861",
+            "sectionname": "Legal Duties..."
+        },
+        {
+            "sectionid": "62863",
+            "sectionname": "Personal Protective Equipment..."
+        },
+        {
+            "sectionid": "62865",
+            "sectionname": "Health and Safety..."
+        }
+    ],
+    "gradedata": [
+        {
+            "studentid": "715869",
+            "studentName": "Russell Faus...",
+            "grades": [
+                {
+                    "sectionid": "62865",
+                    "gradePer": "70%"
+                },
+                {
+                    "sectionid": "62863",
+                    "gradePer": "90%"
+                },
+                {
+                    "sectionid": "62861",
+                    "gradePer": "80%"
+                },
+                {
+                    "sectionid": "61992",
+                    "gradePer": "10%"
+                }
+            ]
+        },
+        {
+            "studentid": "3972",
+            "studentName": "Evelyn Nguyen...",
+            "grades": [
+                {
+                    "sectionid": "62865",
+                    "gradePer": "40%"
+                },
+                {
+                    "sectionid": "62863",
+                    "gradePer": "60%"
+                },
+                {
+                    "sectionid": "62861",
+                    "gradePer": "50%"
+                },
+                {
+                    "sectionid": "61992",
+                    "gradePer": "20%"
+                }
+            ]
+        },
+        {
+            "studentid": "985344",
+            "studentName": "José Eduardo Mora Carrillo...",
+            "grades": [
+                {
+                    "sectionid": "62865",
+                    "gradePer": "100%"
+                },
+                {
+                    "sectionid": "62863",
+                    "gradePer": "30%"
+                },
+                {
+                    "sectionid": "62861",
+                    "gradePer": "20%"
+                }
+            ]
+        },
+        {
+            "studentid": "715869",
+            "studentName": "Russell Faus...",
+            "grades": [
+                {
+                    "sectionid": "62865",
+                    "gradePer": "70%"
+                },
+                {
+                    "sectionid": "62863",
+                    "gradePer": "90%"
+                },
+                {
+                    "sectionid": "62861",
+                    "gradePer": "80%"
+                }
+            ]
+        }
+    ]
+}
